@@ -1,0 +1,31 @@
+body {
+    font-family: arial;
+}
+
+.first {
+    background: gray;
+    padding: 100px 0px;
+    margin-bottom: 50px;
+}
+
+.btn {
+    margin-top: 50px;
+}
+
+.container {
+    padding-top: 70px;
+}
+
+.secondimg {
+    max-width: 500px;
+}
+
+.third {
+    margin-bottom: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
